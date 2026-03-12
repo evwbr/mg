@@ -8,23 +8,39 @@
 <atom:link href="https://evwbr.github.io/mg/feed.xml" rel="self" type="application/rss+xml"/>
 <link>https://evwbr.github.io/mg/</link>
 <description>Notícias de Minas Gerais (últimas 24h) - Evo Web News</description>
-<lastBuildDate>Thu, 12 Mar 2026 16:10:45 GMT</lastBuildDate>
+<lastBuildDate>Thu, 12 Mar 2026 17:12:47 GMT</lastBuildDate>
 <language>pt-BR</language>
 <item>
-<title><![CDATA[Carreta bitrem tomba em ponte na BR-262 em Matipó e fica parcialmente submersa em rio]]></title>
-<link>https://evwbr.github.io/mg/p/mgmulti_b7ee0f464270bd67a308a3e8790e963dad6fd1b7/</link>
+<title><![CDATA[Homem é arrastado por correnteza em córrego de Barbacena; buscas continuam]]></title>
+<link>https://evwbr.github.io/mg/p/mgmulti_5d2b9ee02951c3cf39b4057694f9bbac51c9c6b9/</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Thu, 12 Mar 2026 15:10:45 GMT</pubDate>
+<pubDate>Thu, 12 Mar 2026 17:00:50 GMT</pubDate>
 <category><![CDATA[Minas Gerais]]></category>
-<guid isPermaLink="false"><![CDATA[mgmulti:b7ee0f464270bd67a308a3e8790e963dad6fd1b7]]></guid>
-<description><![CDATA[Uma carreta bitrem tombou após colidir contra o guarda-corpo de uma ponte na BR-262, km 73, em Matipó.]]></description>
+<guid isPermaLink="false"><![CDATA[mgmulti:5d2b9ee02951c3cf39b4057694f9bbac51c9c6b9]]></guid>
+<description><![CDATA[Corpo de Bombeiros realiza buscas por homem de 45 anos levado pela correnteza no bairro São Sebastião, em Barbacena.]]></description>
 <content:encoded><![CDATA[
-<p>O acidente ocorreu na tarde desta quarta-feira (11) na altura do km 73 da BR-262, no município de Matipó.</p>
-<p>Após a colisão contra o guarda-corpo da ponte, o veículo saiu da pista e tombou.</p>
-<p>A cabine da carreta caiu no leito do Rio Matipó, ficando parcialmente submersa, enquanto parte do veículo permaneceu sobre a pista.</p>
-<p>O conjunto da carreta não se desengatou durante o acidente.</p>
-<p>Quando os bombeiros chegaram ao local, o motorista já havia sido atendido pelo Serviço de Atendimento Móvel de Urgência (SAMU) da base de Matipó e encaminhado ao hospital do município.</p>
-<p>O motorista estava consciente, orientado, deambulando, apresentava escoriações nas mãos e relatava dores pelo corpo.</p>
+<p>O desaparecimento ocorreu no fim da tarde de quarta-feira (11), durante um temporal que atingiu a cidade de Barbacena, na região do Campo das Vertentes, Minas Gerais.</p>
+<p>Testemunhas relataram que viram a vítima sendo arrastada pela força da água no córrego do bairro São Sebastião.</p>
+<p>Os bombeiros iniciaram as buscas imediatamente, acessando a parte inferior do leito do córrego, mas não localizaram o homem nos primeiros momentos da operação.</p>
+<p>Na noite de quarta-feira, as equipes percorreram cerca de três quilômetros ao longo do curso do córrego, utilizando lanternas e equipamentos de segurança para áreas de difícil acesso e pouca visibilidade.</p>
+<p>As buscas foram interrompidas durante a madrugada e retomadas na manhã de quinta-feira (12), com a estratégia de ampliar a área de varredura ao longo do curso da água.</p>
+<p>Os militares consideram a possibilidade de que a vítima não tenha resistido devido ao tempo submersa e à força da correnteza no momento do desaparecimento.</p>
+]]></content:encoded>
+</item>
+<item>
+<title><![CDATA[Belo Horizonte e 502 cidades de Minas Gerais estão em alerta de tempestade nesta quinta-feira]]></title>
+<link>https://evwbr.github.io/mg/p/mgmulti_dcb19b7f80a8ade933fe1569b620ab10443a2548/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Thu, 12 Mar 2026 16:28:09 GMT</pubDate>
+<category><![CDATA[Minas Gerais]]></category>
+<guid isPermaLink="false"><![CDATA[mgmulti:dcb19b7f80a8ade933fe1569b620ab10443a2548]]></guid>
+<description><![CDATA[Instituto Nacional de Meteorologia emitiu alerta laranja para Belo Horizonte e outras 502 cidades de Minas Gerais devido a chuva intensa e ventos fortes.]]></description>
+<content:encoded><![CDATA[
+<p>O Instituto Nacional de Meteorologia (Inmet) divulgou um alerta de tempestade na cor laranja para Belo Horizonte e 502 cidades de Minas Gerais nesta quinta-feira (12). O aviso indica possibilidade de chuva intensa e ventos que podem atingir até 100 km/h.</p>
+<p>A previsão aponta para precipitação entre 30 e 60 milímetros por hora, podendo chegar a 100 milímetros ao longo do dia. O alerta é válido até as 23h59 desta quinta-feira.</p>
+<p>O cenário de tempestade traz riscos de quedas de árvores, interrupções no fornecimento de energia elétrica, descargas elétricas e alagamentos em áreas urbanas.</p>
+<p>O Inmet orienta que durante as rajadas de vento a população evite se abrigar debaixo de árvores e não estacione veículos próximos a torres de transmissão e placas de propaganda.</p>
+<p>Além disso, é recomendado evitar o uso de aparelhos eletrônicos ligados à tomada e, se possível, desligar equipamentos elétricos e o quadro geral de energia para prevenir acidentes.</p>
 ]]></content:encoded>
 </item>
 </channel></rss>
