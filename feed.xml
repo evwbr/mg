@@ -8,23 +8,38 @@
 <atom:link href="https://evwbr.github.io/mg/feed.xml" rel="self" type="application/rss+xml"/>
 <link>https://evwbr.github.io/mg/</link>
 <description>Notícias de Minas Gerais (últimas 24h) - Evo Web News</description>
-<lastBuildDate>Fri, 03 Apr 2026 18:10:46 GMT</lastBuildDate>
+<lastBuildDate>Fri, 03 Apr 2026 19:10:50 GMT</lastBuildDate>
 <language>pt-BR</language>
 <item>
-<title><![CDATA[Motociclista morre em acidente com caminhão na BR-381 em João Monlevade]]></title>
-<link>https://evwbr.github.io/mg/p/mgmulti_0db153a59e62a86eff251a290002eb1c50a0d9ff/</link>
+<title><![CDATA[Copasa alerta para intermitência no abastecimento de água em cidades da Região Metropolitana de BH]]></title>
+<link>https://evwbr.github.io/mg/p/mgmulti_11475056d3a4e826717e271680dd515f44ad7581/</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Fri, 03 Apr 2026 17:55:52 GMT</pubDate>
+<pubDate>Fri, 03 Apr 2026 19:04:12 GMT</pubDate>
 <category><![CDATA[Minas Gerais]]></category>
-<guid isPermaLink="false"><![CDATA[mgmulti:0db153a59e62a86eff251a290002eb1c50a0d9ff]]></guid>
-<description><![CDATA[Um motociclista morreu após colidir com um caminhão na BR-381, em João Monlevade, na tarde desta sexta-feira (3).]]></description>
+<guid isPermaLink="false"><![CDATA[mgmulti:11475056d3a4e826717e271680dd515f44ad7581]]></guid>
+<description><![CDATA[A Copasa informou que o abastecimento de água pode apresentar intermitências a partir desta sexta-feira (3) em Betim, Juatuba e Mateus Leme devido à interrupção no fornecimento de energia elétrica.]]></description>
 <content:encoded><![CDATA[
-<p>O acidente ocorreu no km 344 da BR-381, na altura do bairro Tanquinho, na Região Central de Minas Gerais.</p>
-<p>Informações preliminares indicam que o motociclista perdeu o controle da direção, derrapou na pista e colidiu contra a lateral do caminhão.</p>
-<p>Com o impacto, a motocicleta pegou fogo, e o condutor não resistiu aos ferimentos, morrendo no local.</p>
-<p>O motorista do caminhão não sofreu ferimentos.</p>
-<p>A rodovia ficou totalmente interditada por volta das 13h09 para o atendimento da ocorrência.</p>
-<p>Equipes do Corpo de Bombeiros foram acionadas para a limpeza da pista.</p>
+<p>A Companhia de Saneamento de Minas Gerais (Copasa) comunicou que o fornecimento de água poderá ser interrompido de forma intermitente a partir desta sexta-feira (3) em municípios da Região Metropolitana de Belo Horizonte, incluindo Betim, Juatuba e Mateus Leme.</p>
+<p>A causa da intermitência é uma interrupção no fornecimento de energia elétrica que compromete o funcionamento do sistema de distribuição de água.</p>
+<p>A normalização do abastecimento ocorrerá gradativamente após o restabelecimento da energia, com previsão de regularização até as 6h deste sábado (4).</p>
+<p>A Copasa informou que o abastecimento por caminhão-pipa será priorizado para unidades consideradas essenciais, enquanto imóveis com caixa d’água podem não sofrer impactos significativos durante o período de instabilidade.</p>
+<p>Os bairros afetados em Betim incluem Açude, Alto das Flores, Angola, Arquipélago Verde, entre outros; em Juatuba, bairros como Bela Vista, Boa Vista da Serra, Canaã e Centro; e em Mateus Leme, bairros como Atalaia, Bandeirantes, Bom Jesus e Central.</p>
+]]></content:encoded>
+</item>
+<item>
+<title><![CDATA[Ciclone extratropical provoca chuva forte e queda de temperatura na Grande BH a partir de quarta-feira]]></title>
+<link>https://evwbr.github.io/mg/p/mgmulti_c75ba067055c34a25a86056cf6ffd02f5b093653/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Fri, 03 Apr 2026 18:07:15 GMT</pubDate>
+<category><![CDATA[Minas Gerais]]></category>
+<guid isPermaLink="false"><![CDATA[mgmulti:c75ba067055c34a25a86056cf6ffd02f5b093653]]></guid>
+<description><![CDATA[Frente fria associada a ciclone extratropical deve causar temporais na Grande BH e outras regiões de Minas Gerais a partir de 8 de abril.]]></description>
+<content:encoded><![CDATA[
+<p>A Grande BH deve registrar aumento da chuva e queda nas temperaturas na próxima semana devido à atuação de uma frente fria associada à formação de um ciclone extratropical.</p>
+<p>O ciclone extratropical, um sistema de baixa pressão atmosférica formado pelo contraste entre massas de ar quente e frio, deve se organizar entre o Uruguai e a Argentina entre os dias 6 e 7 de abril, sem avançar diretamente sobre o Sudeste.</p>
+<p>Apesar de não avançar diretamente, a frente fria associada ao ciclone se desloca em direção à região Sudeste, provocando instabilidade e fortes pancadas de chuva na Grande BH, Triângulo Mineiro, Sul de Minas e Zona da Mata a partir de quarta-feira (8).</p>
+<p>Na quinta-feira (9), a frente fria continua avançando pelo Sudeste, mantendo as condições para chuva forte em Minas Gerais, São Paulo, Rio de Janeiro e Espírito Santo, com previsão de ventania.</p>
+<p>A Defesa Civil orienta a população para cuidados durante as chuvas fortes, incluindo evitar áreas abertas em caso de raios, não trafegar em ruas alagadas, não se abrigar sob árvores, atenção especial a áreas de encostas e morros, e comunicar imediatamente a Defesa Civil ou a CEMIG em caso de cabos elétricos rompidos ou danos em imóveis.</p>
 ]]></content:encoded>
 </item>
 </channel></rss>
