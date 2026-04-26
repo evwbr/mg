@@ -8,22 +8,36 @@
 <atom:link href="https://evwbr.github.io/mg/feed.xml" rel="self" type="application/rss+xml"/>
 <link>https://evwbr.github.io/mg/</link>
 <description>Notícias de Minas Gerais (últimas 24h) - Evo Web News</description>
-<lastBuildDate>Sun, 26 Apr 2026 19:13:27 GMT</lastBuildDate>
+<lastBuildDate>Sun, 26 Apr 2026 23:12:58 GMT</lastBuildDate>
 <language>pt-BR</language>
 <item>
-<title><![CDATA[Homem de 27 anos é morto a tiros durante evento de pagode em Contagem]]></title>
-<link>https://evwbr.github.io/mg/p/mgmulti_46896602fa1d8e03ca8a85ebdb14836a1038b91f/</link>
+<title><![CDATA[Incêndio atinge subestação de fábrica de cimento em Pedro Leopoldo]]></title>
+<link>https://evwbr.github.io/mg/p/mgmulti_2dafad9afa16fc681d531b24783a9f666be62e1a/</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Sun, 26 Apr 2026 17:44:54 GMT</pubDate>
+<pubDate>Sun, 26 Apr 2026 22:57:34 GMT</pubDate>
 <category><![CDATA[Minas Gerais]]></category>
-<guid isPermaLink="false"><![CDATA[mgmulti:46896602fa1d8e03ca8a85ebdb14836a1038b91f]]></guid>
-<description><![CDATA[Um homem de 27 anos foi baleado e morreu na madrugada deste domingo durante um evento de pagode no bairro Darcy Ribeiro, em Contagem.]]></description>
+<guid isPermaLink="false"><![CDATA[mgmulti:2dafad9afa16fc681d531b24783a9f666be62e1a]]></guid>
+<description><![CDATA[Um incêndio na vegetação se alastrou até a subestação de energia de uma fábrica de cimento em Pedro Leopoldo, causando danos a um transformador.]]></description>
 <content:encoded><![CDATA[
-<p>O crime ocorreu por volta de 1h40, quando a vítima, que estava no evento, foi surpreendida por disparos de arma de fogo ao deixar o local.</p>
-<p>A Polícia Militar informou que a vítima e o suspeito estavam no mesmo evento e iniciaram uma discussão antes do ataque.</p>
-<p>Uma testemunha relatou que o autor das ameaças chegou a fazer advertências antes de efetuar os disparos.</p>
-<p>O jovem baleado foi socorrido, mas morreu antes de dar entrada na Unidade de Pronto Atendimento (UPA) Várzea das Flores.</p>
-<p>A perícia da Polícia Civil foi acionada para realizar os trabalhos de investigação, mas até o momento a motivação do crime não foi esclarecida e o suspeito não foi identificado.</p>
+<p>O incêndio ocorreu neste domingo (26) na Avenida Coronel Juventino Dias, em Pedro Leopoldo, Região Metropolitana de Belo Horizonte.</p>
+<p>As chamas atingiram a estrutura elétrica da empresa, danificando um transformador da subestação de energia da fábrica de cimento.</p>
+<p>Equipes do Corpo de Bombeiros controlaram o fogo, evitando danos maiores à unidade industrial.</p>
+<p>Não houve registro de feridos durante o incidente.</p>
+<p>As causas do incêndio ainda não foram detalhadas.</p>
+]]></content:encoded>
+</item>
+<item>
+<title><![CDATA[Homem de 55 anos morre em acidente entre caminhões na MGC-135, Norte de Minas]]></title>
+<link>https://evwbr.github.io/mg/p/mgmulti_4d51d51b50d1f1dbaacb78f974e59a994360668a/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Sun, 26 Apr 2026 21:13:06 GMT</pubDate>
+<category><![CDATA[Minas Gerais]]></category>
+<guid isPermaLink="false"><![CDATA[mgmulti:4d51d51b50d1f1dbaacb78f974e59a994360668a]]></guid>
+<description><![CDATA[Um homem de 55 anos morreu após colisão traseira entre dois caminhões na MGC-135, em Joaquim Felício.]]></description>
+<content:encoded><![CDATA[
+<p>O acidente ocorreu na noite de sábado (25), por volta das 21h30, no km 492 da rodovia MGC-135, em Joaquim Felício, Norte de Minas.</p>
+<p>O motorista do outro caminhão, de 55 anos, foi socorrido em estado grave e encaminhado ao hospital regional de Bocaiuva, mas não resistiu aos ferimentos.</p>
+<p>Durante o atendimento da ocorrência, a pista ficou totalmente interditada nos dois sentidos por cerca de quatro horas e meia, sendo liberada por volta das 2h.</p>
 ]]></content:encoded>
 </item>
 </channel></rss>
