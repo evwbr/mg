@@ -854,5 +854,21 @@
     "pageUrl": "https://evwbr.github.io/mg/p/mgmulti_2d1a37ffece5067664c760e60832ae779b33e0af/",
     "usedAt": 1779703598601,
     "usedAtIso": "2026-05-25T10:06:38.601Z"
+  },
+  "source:db6eb76264e207a0b282d4b006f02a1b2603232e": {
+    "url": "https://pordentrodeminas.com.br/noticias/gerais/2026/05/acidente-deixa-transito-lento-na-avenida-antonio-carlos-em-bh-nesta-segunda-feira-25",
+    "title": "Acidente na avenida Antônio Carlos causa trânsito intenso na Pampulha, em Belo Horizonte",
+    "guid": "mgmulti:7edbdd5767752b85690d0dd2f50e2957effdac43",
+    "pageUrl": "https://evwbr.github.io/mg/p/mgmulti_7edbdd5767752b85690d0dd2f50e2957effdac43/",
+    "usedAt": 1779718011957,
+    "usedAtIso": "2026-05-25T14:06:51.957Z"
+  },
+  "source:62699aef11bb4f4bb6bc5829d3a17c6a6fedad2d": {
+    "url": "https://pordentrodeminas.com.br/noticias/gerais/2026/05/bh-tera-manha-fria-e-possibilidade-de-chuva-nesta-segunda-feira-25-veja-a-previsao-do-tempo",
+    "title": "Belo Horizonte enfrenta manhã fria com previsão de chuva isolada nesta segunda-feira",
+    "guid": "mgmulti:f6fd8cee66552e9c987d9a891cc130178416cff4",
+    "pageUrl": "https://evwbr.github.io/mg/p/mgmulti_f6fd8cee66552e9c987d9a891cc130178416cff4/",
+    "usedAt": 1779718011957,
+    "usedAtIso": "2026-05-25T14:06:51.957Z"
   }
 }
